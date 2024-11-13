@@ -36,8 +36,10 @@ recommendedations
 - ViewModel
 - Room
 - Coroutines
+  
     [Coroutines English](https://www.youtube.com/watch?v=ShNhJ3wMpvQ&list=PLQkwcJG4YTCQcFEPuYGuv54nYai_lwil)
 - Kotlin Flows
+  
     [Kotlin Flows English](https://www.youtube.com/watch?v=ZX8VsqNO_Ss&list=PLQkwcJG4YTCQHCppNAQmLsj_jW38rU9sC)
 - Lifecycle Management
 
