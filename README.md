@@ -25,11 +25,20 @@ You Don't have to be an XML expert but get comfortable desiging UI using it
 - [English](https://www.youtube.com/watch?v=3Ri9PPsGCEg&list=PLQkwcJG4YTCTq1raTb5iMuxnEB06J1VHX) or [This](https://www.udacity.com/course/developing-android-apps-with-kotlin--ud9012)
 
 
-### ViewModel
-### Room
-### Coroutines
-### Kotlin Flows
-### Lifecycle Management
+<br>
+For the next topics I recommend learning by applying to a project   
+recommendedations 
+  - [Google Code Labs](https://developer.android.com/courses/android-basics-compose/course)
+  - [Clean Architecure Note App](https://www.youtube.com/watch?v=8YPXv7xKh2w&t=7490s)
+
+  Don't worry if you feel like you can't keep up, you'll get used to these topics in the future.
+- ViewModel
+- Room
+- Coroutines
+    [Coroutines English](https://www.youtube.com/watch?v=ShNhJ3wMpvQ&list=PLQkwcJG4YTCQcFEPuYGuv54nYai_lwil)
+- Kotlin Flows
+    [Kotlin Flows English](https://www.youtube.com/watch?v=ZX8VsqNO_Ss&list=PLQkwcJG4YTCQHCppNAQmLsj_jW38rU9sC)
+- Lifecycle Management
 
 ## Intermediate Level
 
@@ -53,24 +62,26 @@ App Architecure is very important to maintain a readable and scaleable code base
 
 ### Multi-Module App Development
 The next step modularity, here you will learn what modules are and why and if you should use this approach depending on your codebase
+
 [Modularity](https://developer.android.com/topic/modularization)
 
 
 ### Canvas
 Create custom beautiful shapes and composable using the Canvas
 
-[Canvas](https://developer.android.com/develop/ui/compose/graphics/draw/overview)
+[Canvas Overview](https://developer.android.com/develop/ui/compose/graphics/draw/overview)
 
 
 ### Gesture Handling
 Handle gestures ranging from holding and swiping to more advanced pointer inputs
-[Resource](https://developer.android.com/develop/ui/compose/touch-input/pointer-input/understand-gestures?hl=en)
+
+[Understand Gestures](https://developer.android.com/develop/ui/compose/touch-input/pointer-input/understand-gestures?hl=en)
 
 
 ### Stylus Detection And Palm Rejection
 Detect stylus and info about it like tilt, orientation, and pressure and reject palm input to create the perfect drawing app
 
-[Resource](https://developer.android.com/develop/ui/compose/touch-input/stylus-input/advanced-stylus-features?hl=en)
+[Advanced Stylus Features](https://developer.android.com/develop/ui/compose/touch-input/stylus-input/advanced-stylus-features?hl=en)
 
 ### AGSL (Android Graphics Shader Langauge)
 Allows you to create and render beautiful RuntimeShaders in either canvas in compose or filter View content
