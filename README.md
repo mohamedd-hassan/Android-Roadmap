@@ -44,20 +44,43 @@ You Don't have to be an XML expert but get comfortable desiging UI using it
 ### Foreground Sevices
 
 ## Advanced Level
+Here in the advanced level you will need to learn and research topics more on your own, it will help you increase your searching skills and help you find and learn more topics on your own in the future
 
 ### App Architecture
+App Architecure is very important to maintain a readable and scaleable code base, you can start learning about it here
+
 [App Architecure](https://developer.android.com/topic/architecture)
 
 ### Multi-Module App Development
+The next step modularity, here you will learn what modules are and why and if you should use this approach depending on your codebase
 [Modularity](https://developer.android.com/topic/modularization)
 
-### AGSL
-[AGSL](https://developer.android.com/develop/ui/views/graphics/agsl/using-agsl)
+
 ### Canvas
+Create custom beautiful shapes and composable using the Canvas
+
 [Canvas](https://developer.android.com/develop/ui/compose/graphics/draw/overview)
-### Low Level Gesture Handling
+
+
+### Gesture Handling
+Handle gestures ranging from holding and swiping to more advanced pointer inputs
 [Resource](https://developer.android.com/develop/ui/compose/touch-input/pointer-input/understand-gestures?hl=en)
+
+
 ### Stylus Detection And Palm Rejection
+Detect stylus and info about it like tilt, orientation, and pressure and reject palm input to create the perfect drawing app
+
 [Resource](https://developer.android.com/develop/ui/compose/touch-input/stylus-input/advanced-stylus-features?hl=en)
+
+### AGSL (Android Graphics Shader Langauge)
+Allows you to create and render beautiful RuntimeShaders in either canvas in compose or filter View content
+
+[AGSL](https://developer.android.com/develop/ui/views/graphics/agsl)
+
+
 ### Unit Testing
+
+No code is without fault, that's why its so important to learn unit testing to make sure your code works as intended
+
+[Google Codelab](https://developer.android.com/codelabs/advanced-android-kotlin-training-testing-basics#0)
 
