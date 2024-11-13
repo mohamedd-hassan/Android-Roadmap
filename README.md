@@ -28,13 +28,11 @@
 
 ## Advanced Level
 
-
-
-### MV-VM 
-
-### Clean Architecture
+### App Architecture
+[App Architecure](https://developer.android.com/topic/architecture)
 
 ### Multi-Module App Development
+[Modularity](https://developer.android.com/topic/modularization)
 
 ### AGSL
 [AGSL](https://developer.android.com/develop/ui/views/graphics/agsl/using-agsl)
