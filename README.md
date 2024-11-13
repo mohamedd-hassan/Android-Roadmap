@@ -28,6 +28,7 @@ You Don't have to be an XML expert but get comfortable desiging UI using it
 <br>
 For the next topics I recommend learning by applying to a project   
 recommendedations 
+
   - [Google Code Labs](https://developer.android.com/courses/android-basics-compose/course)
   - [Clean Architecure Note App](https://www.youtube.com/watch?v=8YPXv7xKh2w&t=7490s)
 
