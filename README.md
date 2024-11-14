@@ -68,11 +68,29 @@ An important part of being a developer is trying to find your own sources and re
  [Jetpack Compose](https://wave-quince-4c2.notion.site/Jetpack-Compose-29a3109457b04577bf9c41cdb75192dc?pvs=4)
  
 ### Jetpack Datastore/SharedPreference
-### Dependency Injection
-### Sensors
-### Content Provider
-### Workmanager
-### Foreground Sevices
+### Dependency Injection   
+- [Tutorial](https://www.youtube.com/watch?v=bbMsuI2p1DQ&t=1464s)
+
+- [Reading](https://developer.android.com/training/dependency-injection)
+
+### Sensors   
+- [Tutorial](https://www.youtube.com/watch?v=IU-EAtITRRM)
+
+- [Reading](https://developer.android.com/develop/sensors-and-location/sensors/sensors_overview)
+
+### Content Provider   
+- [Tutorial](https://www.youtube.com/watch?v=IVHZpTyVOxU&t=450s)
+
+- [Reading](https://developer.android.com/guide/topics/providers/content-providers?hl=en)
+
+### Workmanager   
+- [Tutorial](https://www.youtube.com/watch?v=A2JetouoNSc)
+
+- [Reading](https://developer.android.com/develop/background-work/background-tasks/persistent/getting-started)
+### Foreground Sevices   
+- [Tutorial](https://www.youtube.com/watch?v=YZL-_XJSClc)   
+  
+- [Reading](https://developer.android.com/develop/background-work/services/foreground-services)
 
 ## Advanced Level
 Here in the advanced level you will need to learn and research topics more on your own, it will help you increase your searching skills and help you find and learn more topics on your own in the future
