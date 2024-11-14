@@ -50,14 +50,14 @@ An important part of being a developer is trying to find your own sources and re
 ### Retrofit/Ktor
 
 - Retrofit   
-   [Google Internet Codelab](https://developer.android.com/courses/pathways/android-basics-compose-unit-5-pathway-1?hl=en)
+  - [Google Internet Codelab](https://developer.android.com/courses/pathways/android-basics-compose-unit-5-pathway-1?hl=en)
   
-   [Tutorial](https://www.youtube.com/watch?v=t6Sql3WMAnk)
+  - [Tutorial](https://www.youtube.com/watch?v=t6Sql3WMAnk)
   
 - Ktor   
-  [Tutorial](https://www.youtube.com/watch?v=3KTXD_ckAX0)
+  - [Tutorial](https://www.youtube.com/watch?v=3KTXD_ckAX0)
   
-  [Ktor Documentation](https://ktor.io/learn/)
+  - [Ktor Documentation](https://ktor.io/learn/)
   
 
 ### Permission Handling
@@ -67,7 +67,17 @@ An important part of being a developer is trying to find your own sources and re
  for learning compose I would recommend this excellent roadmap by Bassam   
  [Jetpack Compose](https://wave-quince-4c2.notion.site/Jetpack-Compose-29a3109457b04577bf9c41cdb75192dc?pvs=4)
  
-### Jetpack Datastore/SharedPreference
+### Jetpack Datastore/SharedPreference   
+- Shared Preferences
+  - [Tutorial](https://www.youtube.com/watch?v=wtpRp2IpCSo)
+    
+  - [Reading](https://developer.android.com/training/data-storage/shared-preferences?hl=en)
+    
+- Jetpack Datastore   
+  - [Tutorial](https://www.youtube.com/watch?v=McnVx7l5awk)
+ 
+  - [Reading](https://developer.android.com/topic/libraries/architecture/datastore?hl=en)
+ 
 ### Dependency Injection   
 - [Tutorial](https://www.youtube.com/watch?v=bbMsuI2p1DQ&t=1464s)
 
