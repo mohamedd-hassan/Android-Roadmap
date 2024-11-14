@@ -44,10 +44,28 @@ recommendedations
 - Lifecycle Management
 
 ## Intermediate Level
+An important part of being a developer is trying to find your own sources and relying on documentation and code samples so from here on out we will provide these links along with the resources to get you used to it.   
+
+### Retrofit/Ktor
+
+- Retrofit
+   [Google Internet Codelab](https://developer.android.com/courses/pathways/android-basics-compose-unit-5-pathway-1?hl=en)
+  
+   [Tutorial](https://www.youtube.com/watch?v=t6Sql3WMAnk)
+  
+- Ktor
+  [Tutorial](https://www.youtube.com/watch?v=3KTXD_ckAX0)
+  
+  [Ktor Documentation](https://ktor.io/learn/)
+  
 
 ### Permission Handling
-### Retrofit/Ktor
+  - [Tutorial](https://www.youtube.com/watch?v=D3JCtaK8LSU&t=282s)
+  - [Permissions in Android](https://developer.android.com/guide/topics/permissions/overview)
 ### XML with Compose
+ for learning compose I would recommend this excellent roadmap by Bassam   
+ [Jetpack Compose](https://wave-quince-4c2.notion.site/Jetpack-Compose-29a3109457b04577bf9c41cdb75192dc?pvs=4)
+ 
 ### Jetpack Datastore/SharedPreference
 ### Dependency Injection
 ### Sensors
