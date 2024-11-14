@@ -27,6 +27,7 @@ You Don't have to be an XML expert but get comfortable desiging UI using it
 
 <br>
 For the next topics I recommend learning by applying to a project   
+
 recommendedations 
 
   - [Google Code Labs](https://developer.android.com/courses/android-basics-compose/course)
