@@ -28,7 +28,7 @@ You Don't have to be an XML expert but get comfortable desiging UI using it
 <br>
 For the next topics I recommend learning by applying to a project   
 
-recommendedations 
+Recommendedations:
 
   - [Google Code Labs](https://developer.android.com/courses/android-basics-compose/course)
   - [Clean Architecure Note App](https://www.youtube.com/watch?v=8YPXv7xKh2w&t=7490s)
@@ -49,12 +49,12 @@ An important part of being a developer is trying to find your own sources and re
 
 ### Retrofit/Ktor
 
-- Retrofit
+- Retrofit   
    [Google Internet Codelab](https://developer.android.com/courses/pathways/android-basics-compose-unit-5-pathway-1?hl=en)
   
    [Tutorial](https://www.youtube.com/watch?v=t6Sql3WMAnk)
   
-- Ktor
+- Ktor   
   [Tutorial](https://www.youtube.com/watch?v=3KTXD_ckAX0)
   
   [Ktor Documentation](https://ktor.io/learn/)
